@@ -6,7 +6,7 @@
   <link href="https://cowboyliao.github.io/atom.xml" rel="self"/>
   
   <link href="https://cowboyliao.github.io/"/>
-  <updated>2022-02-23T16:35:36.243Z</updated>
+  <updated>2022-02-24T09:05:07.298Z</updated>
   <id>https://cowboyliao.github.io/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>又是搭建博客的一天</title>
+    <link href="https://cowboyliao.github.io/2022/02/24/%E5%8F%88%E6%98%AF%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2%E7%9A%84%E4%B8%80%E5%A4%A9/"/>
+    <id>https://cowboyliao.github.io/2022/02/24/%E5%8F%88%E6%98%AF%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2%E7%9A%84%E4%B8%80%E5%A4%A9/</id>
+    <published>2022-02-24T09:02:44.000Z</published>
+    <updated>2022-02-24T09:05:07.298Z</updated>
+    
+    <content type="html"><![CDATA[<p>​                <strong>测试</strong>————<em>前计划</em></p><p>能使用<span style='color:green;background:yellow;font-size:文字大小;font-family:SimHei;'><strong>Python</strong></span> <font color='red'>进行自动健康打卡，qq自动回消息，做题库直到能及格</font></p><p>能使用<span style='color:MidnightBlue;background:#00BFFF;font-size:文字大小;font-family:SimHei;'><strong>Html+Css+Python</strong></span><font color='red'>创建自己的博客网站，每日更新爬取P站图片</font></p><p>能使用<span style='color:black;background:Azure;font-size:文字大小;font-family:SimHei;'><strong>Typora</strong></span><font color='red'>熟悉并经常使用，写些心得体会，知识经验，将其应用于网站框架及内容建设</font></p><p>能使用<span style='color:pink;background:blue;font-size:文字大小;font-family:SimHei;'><strong>C++</strong></span> <font color='red'>学会框架，再学数据结构，再刷题直到能及格，后面做算法题</font></p><p>能使用<span style='color:Auqumarin;background:Lime;font-size:文字大小;font-family:SimHei;'><strong>数据结构+算法分析</strong></span><font color='red'>一个月，老子学穿它！,蓝桥杯就这？</font><a href='https://docs.qq.com/sheet/DS2p5WGJkRXlwVklE'>点击此处看详细计划</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;​                &lt;strong&gt;测试&lt;/strong&gt;————&lt;em&gt;前计划&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;能使用&lt;span style=&#39;color:green;background:yellow;font-size:文字大小;font-family:SimH</summary>
+      
+    
+    
+    
+    
+    <category term="博客搭建" scheme="https://cowboyliao.github.io/tags/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/"/>
+    
+  </entry>
   
   <entry>
     <title>My First Blog</title>
