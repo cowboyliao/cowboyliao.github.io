@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>小liao的博客</title>
+  <title>Randy&#39;s</title>
   
-  
+  <subtitle>Small-Talk</subtitle>
   <link href="https://cowboyliao.github.io/atom.xml" rel="self"/>
   
   <link href="https://cowboyliao.github.io/"/>
@@ -10,7 +10,7 @@
   <id>https://cowboyliao.github.io/</id>
   
   <author>
-    <name>Mr.Liao</name>
+    <name>CowboyLiao</name>
     
   </author>
   
