@@ -6,7 +6,7 @@
   <link href="https://cowboyliao.github.io/atom.xml" rel="self"/>
   
   <link href="https://cowboyliao.github.io/"/>
-  <updated>2022-03-10T15:48:21.618Z</updated>
+  <updated>2022-03-12T00:41:48.152Z</updated>
   <id>https://cowboyliao.github.io/</id>
   
   <author>
@@ -15,6 +15,25 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>周记</title>
+    <link href="https://cowboyliao.github.io/2022/03/12/%E5%91%A8%E8%AE%B0/"/>
+    <id>https://cowboyliao.github.io/2022/03/12/%E5%91%A8%E8%AE%B0/</id>
+    <published>2022-03-12T00:40:23.000Z</published>
+    <updated>2022-03-12T00:41:48.152Z</updated>
+    
+    <content type="html"><![CDATA[<p>a啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊a</p>]]></content>
+    
+    
+    <summary type="html">大一下开学第二周</summary>
+    
+    
+    
+    
+    <category term="生活杂碎" scheme="https://cowboyliao.github.io/tags/%E7%94%9F%E6%B4%BB%E6%9D%82%E7%A2%8E/"/>
+    
+  </entry>
   
   <entry>
     <title>3.10Python实验课</title>
