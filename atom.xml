@@ -40,15 +40,12 @@
     <link href="https://cowboyliao.github.io/2022/03/10/3-10Python%E5%AE%9E%E9%AA%8C%E8%AF%BE/"/>
     <id>https://cowboyliao.github.io/2022/03/10/3-10Python%E5%AE%9E%E9%AA%8C%E8%AF%BE/</id>
     <published>2022-03-10T15:44:13.000Z</published>
-    <updated>2022-03-10T15:48:21.618Z</updated>
+    <updated>2022-03-12T00:48:53.389Z</updated>
     
     <content type="html"><![CDATA[<h2 id="太阳花"><a href="#太阳花" class="headerlink" title="太阳花"></a>太阳花</h2><h3 id="一，源程序调试过程"><a href="#一，源程序调试过程" class="headerlink" title="一，源程序调试过程"></a>一，源程序调试过程</h3><h4 id="思路"><a href="#思路" class="headerlink" title="思路"></a>思路</h4><blockquote><p>将原本由直线构成的太阳花运用圆弧进行改变</p><p>使用random库进行颜色随机切换</p><p>中间添加别类的<font color="darkyellow">“花蕊”</font></p><p>使用不同函数来模拟不同图层</p></blockquote><h4 id="问题"><a href="#问题" class="headerlink" title="问题"></a>问题</h4><blockquote><p>1,Python的<font color="red">turtle.Terminator错误</font></p><p>2,图画时turtle的位置</p></blockquote><h4 id="解决方法"><a href="#解决方法" class="headerlink" title="解决方法"></a>解决方法</h4><blockquote><p>1,查看CSDN,发现没啥用,错误也不影响运行就没有再管</p><p>2,不断调试,运用goto(),sety(),home()等函数进行调试</p></blockquote><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">turtle.Turtle().screen.delay(<span class="number">0</span>) <span class="comment">#能够快速画出图像,比speed(10)快得多得多</span></span><br><span class="line"><span class="built_in">abs</span>(turtle.pos())&lt;<span class="number">1</span> <span class="comment">#能够检测是否返回原点,可以自动停止画图</span></span><br></pre></td></tr></table></figure><h3 id="二，实验实习结果分析"><a href="#二，实验实习结果分析" class="headerlink" title="二，实验实习结果分析"></a>二，实验实习结果分析</h3><p><a href="https://sm.ms/image/5gHtGn72wq1uMVx" target="_blank"><img src="https://s2.loli.net/2022/03/10/5gHtGn72wq1uMVx.png" style="zoom: 33%;"></a></p><p><code>每次运行都能得到不同的花朵</code></p><h3 id="三，心得体会"><a href="#三，心得体会" class="headerlink" title="三，心得体会"></a>三，心得体会</h3><blockquote><p>1,编程需要耐心</p><p>2,不懂就要查</p><p>3,要和别人有差异</p></blockquote><h2 id="五角星"><a href="#五角星" class="headerlink" title="五角星"></a>五角星</h2><h3 id="一，源程序调试过程-1"><a href="#一，源程序调试过程-1" class="headerlink" title="一，源程序调试过程"></a>一，源程序调试过程</h3><h4 id="方法"><a href="#方法" class="headerlink" title="方法:"></a>方法:</h4><p>1.<strong>自顶向下</strong>的编程思路</p><blockquote><p>首先想象自己运用turtle的库能做些什么,脑海里构建一个大概图画</p><p>然后根据自己所学的知识判断是否可行</p><p>再将大任务化小,比如这个项目</p><p>构建一个以不同颜色的不同边形来组成的五角星</p><p>以两个函数就可以做的</p><p>1.生成随机图形的函数</p><p>2.控制运动轨迹的函数</p><p>将两者合并即可得到整体</p></blockquote><p>2.运用不同的库和网上教程来提升知识量,但重要的是<strong>思路</strong></p><h3 id="二，实验实习结果分析-1"><a href="#二，实验实习结果分析-1" class="headerlink" title="二，实验实习结果分析"></a>二，实验实习结果分析</h3><p><a href="https://sm.ms/image/Tr69g5DEiP3cnAN" target="_blank"><img src="https://s2.loli.net/2022/03/10/Tr69g5DEiP3cnAN.png" alt="image.png" style="zoom:25%;"></a></p><h3 id="三，心得体会-1"><a href="#三，心得体会-1" class="headerlink" title="三，心得体会"></a>三，心得体会</h3><p>1,编程需要<strong>耐心</strong></p><p>2,不懂就要查</p><p>3,要和别人有<strong>差异</strong></p>]]></content>
     
     
-      
-      
-    <summary type="html">&lt;h2 id=&quot;太阳花&quot;&gt;&lt;a href=&quot;#太阳花&quot; class=&quot;headerlink&quot; title=&quot;太阳花&quot;&gt;&lt;/a&gt;太阳花&lt;/h2&gt;&lt;h3 id=&quot;一，源程序调试过程&quot;&gt;&lt;a href=&quot;#一，源程序调试过程&quot; class=&quot;headerlink&quot; title=&quot;一，源</summary>
-      
+    <summary type="html">第一周的实验课让我爱上了python，那简洁的话语和纯粹的耐心让我着迷，C语言你伟大的性能虽强悍，你指针与堆栈的虽能完美运用，但我不再爱你，我更喜欢python！</summary>
     
     
     
@@ -62,16 +59,12 @@
     <link href="https://cowboyliao.github.io/2022/03/10/%E8%AF%97%E4%B8%8E%E5%89%91/"/>
     <id>https://cowboyliao.github.io/2022/03/10/%E8%AF%97%E4%B8%8E%E5%89%91/</id>
     <published>2022-03-10T10:53:02.000Z</published>
-    <updated>2022-03-10T10:56:29.212Z</updated>
+    <updated>2022-03-12T00:55:21.333Z</updated>
     
-    <content type="html"><![CDATA[<p>我喜欢诗，简洁或晦涩，意象的堆砌让我浮想联翩，我喜欢诗意的语言，阿城的峡谷，海子的诗，尼采诗化的箴言，抓不住的鼬鼠里虚无的哲理。</p><p>我喜欢剑，锋利或迟钝，刀把的掌握让我驰骋四方，我喜欢那种霸气，高原我的中国色里句句是剑，而我常以笔为剑，钢笔沙沙的声音是金属和薄纸的和谐，执笔挥墨如割人削甲。</p><p>思维的抽象，我真的愿意去聆听，从迷踪无影的量子，到和谐统一的场论，宇宙的声音，万物的母亲，一切归一，道法自然。况且数字与公式隐含的诗意是那么的浓，那么的美，那谜的定理像银河稠密的乳汁溶化于暗物质的泡影。</p><p>生物进化，人类的智慧结晶，从二进制到人工智能，漫漫的路走过四季，人类的未来满满的困惑，是堕落还是沉沦，是悲伤是喜悦，当红日与冷月在灿烂的大海中绽开，希望又一次点燃。</p><p>纯粹的真理，而不是东拼西凑的话语，歌者的诗词并不是美丽的种子。真正的美，应是这样“人类放下武器与偏见互相拥抱，光荣的舰队正在太阳的火舌上流浪，黑洞中奇点在急旋着诱人的能量，熵减热寂褪去恒星爆发辐射，美丽的人儿在破败绝望的街头舞蹈，核弹在远远的都市喷发，破烂堆里流浪孤儿打开一本残破的废弃《毛选》”。</p>]]></content>
+    <content type="html"><![CDATA[<p>我喜欢诗，简洁或晦涩，意象的堆砌让我浮想联翩，我喜欢诗意的语言，阿城的峡谷，海子的诗，尼采诗化的箴言，抓不住的鼬鼠里虚无的哲理。</p><span id="more"></span>我喜欢剑，锋利或迟钝，刀把的掌握让我驰骋四方，我喜欢那种霸气，高原我的中国色里句句是剑，而我常以笔为剑，钢笔沙沙的声音是金属和薄纸的和谐，执笔挥墨如割人削甲，我爱它虽不如俄乌间喷着鬼火的导弹猛烈，但它有着沾染热血的冷铁能像宇宙最原初的样子，它是最绚丽的超新星爆炸留下的重金属，是原子在最最微观活动的表现，但它又像最俊伟的君王如伽马射线，一击可以抹杀一切。这就是剑，像线一样，柔或刚。<p>思维的抽象，我真的愿意去聆听，从迷踪无影的量子，到和谐统一的场论，宇宙的声音，万物的母亲，一切归一，道法自然。况且数字与公式隐含的诗意是那么的浓，那么的美，那谜的定理像银河稠密的乳汁溶化于暗物质的泡影。</p><p>生物进化，人类的智慧结晶，从二进制到人工智能，漫漫的路走过四季，人类的未来满满的困惑，是堕落还是沉沦，是悲伤是喜悦，当红日与冷月在灿烂的大海中绽开，希望又一次点燃。</p><p>纯粹的真理，而不是东拼西凑的话语，歌者的诗词并不是美丽的种子。真正的美，应是这样“人类放下武器与偏见互相拥抱，光荣的舰队正在太阳的火舌上流浪，黑洞中奇点在急旋着诱人的能量，熵减热寂褪去恒星爆发辐射，美丽的人儿在破败绝望的街头舞蹈，核弹在远远的都市喷发，破烂堆里流浪孤儿打开一本残破的废弃《毛选》”。</p>]]></content>
     
     
-      
-      
-    <summary type="html">&lt;p&gt;我喜欢诗，简洁或晦涩，意象的堆砌让我浮想联翩，我喜欢诗意的语言，阿城的峡谷，海子的诗，尼采诗化的箴言，抓不住的鼬鼠里虚无的哲理。&lt;/p&gt;
-&lt;p&gt;我喜欢剑，锋利或迟钝，刀把的掌握让我驰骋四方，我喜欢那种霸气，高原我的中国色里句句是剑，而我常以笔为剑，钢笔沙沙的声音是金属和薄纸</summary>
-      
+    <summary type="html">&lt;p&gt;我喜欢诗，简洁或晦涩，意象的堆砌让我浮想联翩，我喜欢诗意的语言，阿城的峡谷，海子的诗，尼采诗化的箴言，抓不住的鼬鼠里虚无的哲理。&lt;/p&gt;</summary>
     
     
     
@@ -108,16 +101,13 @@
     <link href="https://cowboyliao.github.io/2022/03/05/%E8%89%BE%E5%B0%94%E7%99%BB%E6%B3%95%E7%8E%AF%E8%AF%84%E6%B5%8B/"/>
     <id>https://cowboyliao.github.io/2022/03/05/%E8%89%BE%E5%B0%94%E7%99%BB%E6%B3%95%E7%8E%AF%E8%AF%84%E6%B5%8B/</id>
     <published>2022-03-05T13:17:32.000Z</published>
-    <updated>2022-03-05T13:34:15.223Z</updated>
+    <updated>2022-03-12T00:44:56.893Z</updated>
     
-    <content type="html"><![CDATA[<p>​    面对这款近几年业界最好的游戏，我已经游玩了24小时。没有查攻略，只观看了其他宿舍游玩，在自己探索的情况下，基于自己对游戏剧情的理解，游戏理念的体会，来评价这款神作。</p><p>​    进入这个世界，似乎又来到黑魂三的世界，但是体验完全不一样。黑魂三本身的素质就相当优秀，如今的体验更是想让人爆粗口，先阐述一下哪些不同。</p><blockquote><p>1.骑马</p><p>2.战技</p><p>3.开放世界地图</p><p>4.Boss的数量</p><p>5.剧情</p><p>6.画面</p><p>7.调灵</p><p>8.npc可赎罪</p><p>9.联机系统</p><p>10.地图设计</p><p>11.跳跃</p><p>。。。</p></blockquote><p>​    如果没有玩过魂系列很难知道这些玩法的改变意味着什么，认为这是理所当然的事情啊。</p><p>可是对于前黑魂玩家来说，这些设计直接改变了整个游戏体验。有人说这游戏就是缝合怪，我完全不认同，集合了几十款游戏的优点，进一步拓展，已经完全不是一款滥竽充数的游戏了，而是花费五年打造的传世经典游戏。这些改进已经是将游戏的维度直接上升了很多，单是跳跃就能让玩家可以更加深入广泛的探索地图。骑马的设计更是让玩家在广大的地图上任意奔驰，二段跳更是让人体会到在魂世界难得的自由感。</p>]]></content>
+    <content type="html"><![CDATA[<p>​    面对这款近几年业界最好的游戏，我已经游玩了24小时。没有查攻略，只观看了其他宿舍游玩，在自己探索的情况下，基于自己对游戏剧情的理解，游戏理念的体会，来评价这款神作。</p><p>​    进入这个世界，似乎又来到黑魂三的世界，但是体验完全不一样。黑魂三本身的素质就相当优秀，如今的体验更是想让人爆粗口，先阐述一下哪些不同。<span id="more"></span></p><blockquote><p>1.骑马</p><p>2.战技</p><p>3.开放世界地图</p><p>4.Boss的数量</p><p>5.剧情</p><p>6.画面</p><p>7.调灵</p><p>8.npc可赎罪</p><p>9.联机系统</p><p>10.地图设计</p><p>11.跳跃</p><p>。。。</p></blockquote><p>​    如果没有玩过魂系列很难知道这些玩法的改变意味着什么，认为这是理所当然的事情啊。</p><p>可是对于前黑魂玩家来说，这些设计直接改变了整个游戏体验。有人说这游戏就是缝合怪，我完全不认同，集合了几十款游戏的优点，进一步拓展，已经完全不是一款滥竽充数的游戏了，而是花费五年打造的传世经典游戏。这些改进已经是将游戏的维度直接上升了很多，单是跳跃就能让玩家可以更加深入广泛的探索地图。骑马的设计更是让玩家在广大的地图上任意奔驰，二段跳更是让人体会到在魂世界难得的自由感。</p>]]></content>
     
     
-      
-      
     <summary type="html">&lt;p&gt;​    面对这款近几年业界最好的游戏，我已经游玩了24小时。没有查攻略，只观看了其他宿舍游玩，在自己探索的情况下，基于自己对游戏剧情的理解，游戏理念的体会，来评价这款神作。&lt;/p&gt;
-&lt;p&gt;​    进入这个世界，似乎又来到黑魂三的世界，但是体验完全不一样。黑魂三本身的素质</summary>
-      
+&lt;p&gt;​    进入这个世界，似乎又来到黑魂三的世界，但是体验完全不一样。黑魂三本身的素质就相当优秀，如今的体验更是想让人爆粗口，先阐述一下哪些不同。&lt;/p&gt;</summary>
     
     
     
@@ -131,18 +121,14 @@
     <link href="https://cowboyliao.github.io/2022/03/01/%E6%9C%80%E8%BF%91%E7%94%9F%E6%B4%BB%E5%B0%8F%E6%80%BB%E7%BB%93/"/>
     <id>https://cowboyliao.github.io/2022/03/01/%E6%9C%80%E8%BF%91%E7%94%9F%E6%B4%BB%E5%B0%8F%E6%80%BB%E7%BB%93/</id>
     <published>2022-03-01T06:57:49.000Z</published>
-    <updated>2022-03-01T07:24:36.128Z</updated>
+    <updated>2022-03-12T00:43:34.866Z</updated>
     
-    <content type="html"><![CDATA[<p>看人文社科类首先考虑用kindle，看技术型看实体书，读书时，用一支笔一本草稿纸，光线保持明亮。</p><p>困乏头晕时，锻炼身体，俯卧撑及通过keep练习动作。</p><p>平时饮食规律，不吃糖和油辣食物，多吃菜，保持饮食多样。</p><p>睡眠前看书避免接触蓝光刺激，早睡早起，早跑早操。</p><p>游戏书籍电影纪录片番剧杂谈感悟总结笔记均用typora记录。</p><p>电脑打字熟悉双拼，浏览健康内容，翻墙切勿看乱党乱纪内容，研究GitHub，stackoverflow等内容。</p><p>能用电脑就别用手机，只能用手机就别看那些视频网站或社交软件。最好用笔和纸纪录，俗话说的好，好记性不如烂笔头。</p><p>心理上不比较，对女性不臆想，讲究两个字纯粹，两个字通透。</p><p><a href="https://sm.ms/image/EjX7GebZdOrag3I" target="_blank"><img src="https://s2.loli.net/2022/03/01/EjX7GebZdOrag3I.jpg" alt="95189534_p0.jpg"></a></p>]]></content>
+    <content type="html"><![CDATA[<p>看人文社科类首先考虑用kindle，看技术型看实体书，读书时，用一支笔一本草稿纸，光线保持明亮。</p><p>困乏头晕时，锻炼身体，俯卧撑及通过keep练习动作。</p><p>平时饮食规律，不吃糖和油辣食物，多吃菜，保持饮食多样。</p><span id="more"></span><p>睡眠前看书避免接触蓝光刺激，早睡早起，早跑早操。</p><p>游戏书籍电影纪录片番剧杂谈感悟总结笔记均用typora记录。</p><p>电脑打字熟悉双拼，浏览健康内容，翻墙切勿看乱党乱纪内容，研究GitHub，stackoverflow等内容。</p><p>能用电脑就别用手机，只能用手机就别看那些视频网站或社交软件。最好用笔和纸纪录，俗话说的好，好记性不如烂笔头。</p><p>心理上不比较，对女性不臆想，讲究两个字纯粹，两个字通透。</p><p><a href="https://sm.ms/image/EjX7GebZdOrag3I" target="_blank"><img src="https://s2.loli.net/2022/03/01/EjX7GebZdOrag3I.jpg" alt="95189534_p0.jpg"></a></p>]]></content>
     
     
-      
-      
     <summary type="html">&lt;p&gt;看人文社科类首先考虑用kindle，看技术型看实体书，读书时，用一支笔一本草稿纸，光线保持明亮。&lt;/p&gt;
 &lt;p&gt;困乏头晕时，锻炼身体，俯卧撑及通过keep练习动作。&lt;/p&gt;
-&lt;p&gt;平时饮食规律，不吃糖和油辣食物，多吃菜，保持饮食多样。&lt;/p&gt;
-&lt;p&gt;睡眠前看书避免接触蓝光刺</summary>
-      
+&lt;p&gt;平时饮食规律，不吃糖和油辣食物，多吃菜，保持饮食多样。&lt;/p&gt;</summary>
     
     
     
@@ -156,15 +142,12 @@
     <link href="https://cowboyliao.github.io/2022/02/24/%E5%88%86%E4%BA%AB%E7%8B%97%E4%BA%8B/"/>
     <id>https://cowboyliao.github.io/2022/02/24/%E5%88%86%E4%BA%AB%E7%8B%97%E4%BA%8B/</id>
     <published>2022-02-24T14:59:17.000Z</published>
-    <updated>2022-03-01T07:28:28.215Z</updated>
+    <updated>2022-03-12T00:44:29.604Z</updated>
     
-    <content type="html"><![CDATA[<h3 id="测试——分享几件狗事："><a href="#测试——分享几件狗事：" class="headerlink" title="测试——分享几件狗事："></a>测试——分享几件狗事：</h3><p>1.巨壮戴金链子的黑狗，我专心致志的读着百年孤独，没注意人来，最开始狗主人坐我右边，我的自行车横停在我前面，这个狗就在我左边疯狂叼农夫山泉给我，叼上了又掉，椅子上全是唾沫星子，这个狗还挺锲而不舍的，我裤子都被它口水弄湿了。我对狗主人展露了难色，“它们”终于挪了位，我也继续看书中，直到………这狗突然过来把我自行车上的冰点水叼走了，那沉迷手机的中年大叔终于从沉默中脱出，破口大骂，狗见形势不妙只得软趴在地上，我心也开始悬了，攥起地上的水，塞紧音乐，书籍放进kindle，溜上自行车唰唰的三米一回头的离了。</p><p>2.一条海盗狗，看我路过放下球就来扒拉我的腿，主人呜呜它几声便伏在哪里没动静了，我见远处有大晴天下难得的空长椅便坐在那里看书，正当我沉迷于研究程序员健康指南不久，那个狗从我背后以百米冲刺的速度奔来，中间隔着草丛几颗树仿若无形，踹我一脚马上就跑，我回过神，只见腿上两道泥痕，和黑白狗的背影，我漠然了，那狗主人也开始囔囔起来，看了这调皮狗也该被骂骂了。</p><p>3.河边带着狗和猫捞鱼的女生</p><p><a href="https://sm.ms/image/Ow9ZjRPY3zuWTgf" target="_blank"><img src="https://s2.loli.net/2022/03/01/Ow9ZjRPY3zuWTgf.jpg"></a></p><p>4.端庄优雅的doge（大中华土狗版）</p><p>  <a href="https://sm.ms/image/WvG3ori6VDRPBeF" target="_blank"><img src="https://s2.loli.net/2022/03/01/WvG3ori6VDRPBeF.jpg"></a><br>5.河间埋的小黄车：我不是人，但你是真的狗<br>6.这是一个狗链，英文名Dog chain，希望有狗的同学不要不识抬举，狗头你不系，小心我系你头上（非SM爱好者)<a href="https://sm.ms/image/MeCGZHQwpTh3s98" target="_blank"><img src="https://s2.loli.net/2022/03/01/MeCGZHQwpTh3s98.jpg"></a></p>]]></content>
+    <content type="html"><![CDATA[<h3 id="测试——分享几件狗事："><a href="#测试——分享几件狗事：" class="headerlink" title="测试——分享几件狗事："></a>测试——分享几件狗事：</h3><span id="more"></span><p>1.巨壮戴金链子的黑狗，我专心致志的读着百年孤独，没注意人来，最开始狗主人坐我右边，我的自行车横停在我前面，这个狗就在我左边疯狂叼农夫山泉给我，叼上了又掉，椅子上全是唾沫星子，这个狗还挺锲而不舍的，我裤子都被它口水弄湿了。我对狗主人展露了难色，“它们”终于挪了位，我也继续看书中，直到………这狗突然过来把我自行车上的冰点水叼走了，那沉迷手机的中年大叔终于从沉默中脱出，破口大骂，狗见形势不妙只得软趴在地上，我心也开始悬了，攥起地上的水，塞紧音乐，书籍放进kindle，溜上自行车唰唰的三米一回头的离了。</p><p>2.一条海盗狗，看我路过放下球就来扒拉我的腿，主人呜呜它几声便伏在哪里没动静了，我见远处有大晴天下难得的空长椅便坐在那里看书，正当我沉迷于研究程序员健康指南不久，那个狗从我背后以百米冲刺的速度奔来，中间隔着草丛几颗树仿若无形，踹我一脚马上就跑，我回过神，只见腿上两道泥痕，和黑白狗的背影，我漠然了，那狗主人也开始囔囔起来，看了这调皮狗也该被骂骂了。</p><p>3.河边带着狗和猫捞鱼的女生</p><p><a href="https://sm.ms/image/Ow9ZjRPY3zuWTgf" target="_blank"><img src="https://s2.loli.net/2022/03/01/Ow9ZjRPY3zuWTgf.jpg"></a></p><p>4.端庄优雅的doge（大中华土狗版）</p><p>  <a href="https://sm.ms/image/WvG3ori6VDRPBeF" target="_blank"><img src="https://s2.loli.net/2022/03/01/WvG3ori6VDRPBeF.jpg"></a><br>5.河间埋的小黄车：我不是人，但你是真的狗<br>6.这是一个狗链，英文名Dog chain，希望有狗的同学不要不识抬举，狗头你不系，小心我系你头上（非SM爱好者)<a href="https://sm.ms/image/MeCGZHQwpTh3s98" target="_blank"><img src="https://s2.loli.net/2022/03/01/MeCGZHQwpTh3s98.jpg"></a></p>]]></content>
     
     
-      
-      
-    <summary type="html">&lt;h3 id=&quot;测试——分享几件狗事：&quot;&gt;&lt;a href=&quot;#测试——分享几件狗事：&quot; class=&quot;headerlink&quot; title=&quot;测试——分享几件狗事：&quot;&gt;&lt;/a&gt;测试——分享几件狗事：&lt;/h3&gt;&lt;p&gt;1.巨壮戴金链子的黑狗，我专心致志的读着百年孤独，没注意人来，最开始</summary>
-      
+    <summary type="html">&lt;h3 id=&quot;测试——分享几件狗事：&quot;&gt;&lt;a href=&quot;#测试——分享几件狗事：&quot; class=&quot;headerlink&quot; title=&quot;测试——分享几件狗事：&quot;&gt;&lt;/a&gt;测试——分享几件狗事：&lt;/h3&gt;</summary>
     
     
     
@@ -201,15 +184,13 @@
     <link href="https://cowboyliao.github.io/2022/02/24/%E5%8F%88%E6%98%AF%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2%E7%9A%84%E4%B8%80%E5%A4%A9/"/>
     <id>https://cowboyliao.github.io/2022/02/24/%E5%8F%88%E6%98%AF%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2%E7%9A%84%E4%B8%80%E5%A4%A9/</id>
     <published>2022-02-24T09:02:44.000Z</published>
-    <updated>2022-02-24T09:07:14.556Z</updated>
+    <updated>2022-03-12T00:44:43.915Z</updated>
     
-    <content type="html"><![CDATA[<h3 id="测试————前计划"><a href="#测试————前计划" class="headerlink" title="测试————前计划"></a><strong>测试</strong>————<em>前计划</em></h3><p>能使用<span style="color:green;background:yellow;font-size:文字大小;font-family:SimHei;"><strong>Python</strong></span> <font color="red">进行自动健康打卡，qq自动回消息，做题库直到能及格</font></p><p>能使用<span style="color:MidnightBlue;background:#00BFFF;font-size:文字大小;font-family:SimHei;"><strong>Html+Css+Python</strong></span><font color="red">创建自己的博客网站，每日更新爬取P站图片</font></p><p>能使用<span style="color:black;background:Azure;font-size:文字大小;font-family:SimHei;"><strong>Typora</strong></span><font color="red">熟悉并经常使用，写些心得体会，知识经验，将其应用于网站框架及内容建设</font></p><p>能使用<span style="color:pink;background:blue;font-size:文字大小;font-family:SimHei;"><strong>C++</strong></span> <font color="red">学会框架，再学数据结构，再刷题直到能及格，后面做算法题</font></p><p>能使用<span style="color:Auqumarin;background:Lime;font-size:文字大小;font-family:SimHei;"><strong>数据结构+算法分析</strong></span><font color="red">一个月，老子学穿它！,蓝桥杯就这？</font><a href="https://docs.qq.com/sheet/DS2p5WGJkRXlwVklE">点击此处看详细计划</a></p>]]></content>
+    <content type="html"><![CDATA[<h3 id="测试————前计划"><a href="#测试————前计划" class="headerlink" title="测试————前计划"></a><strong>测试</strong>————<em>前计划</em></h3><p>能使用<span style="color:green;background:yellow;font-size:文字大小;font-family:SimHei;"><strong>Python</strong></span> <font color="red">进行自动健康打卡，qq自动回消息，做题库直到能及格</font></p><p>能使用<span style="color:MidnightBlue;background:#00BFFF;font-size:文字大小;font-family:SimHei;"><strong>Html+Css+Python</strong></span><font color="red">创建自己的博客网站，每日更新爬取P站图片</font></p><span id="more"></span>能使用<span style="color:black;background:Azure;font-size:文字大小;font-family:SimHei;">**Typora**</span><font color="red">熟悉并经常使用，写些心得体会，知识经验，将其应用于网站框架及内容建设</font><p>能使用<span style="color:pink;background:blue;font-size:文字大小;font-family:SimHei;"><strong>C++</strong></span> <font color="red">学会框架，再学数据结构，再刷题直到能及格，后面做算法题</font></p><p>能使用<span style="color:Auqumarin;background:Lime;font-size:文字大小;font-family:SimHei;"><strong>数据结构+算法分析</strong></span><font color="red">一个月，老子学穿它！,蓝桥杯就这？</font><a href="https://docs.qq.com/sheet/DS2p5WGJkRXlwVklE">点击此处看详细计划</a></p>]]></content>
     
     
-      
-      
-    <summary type="html">&lt;h3 id=&quot;测试————前计划&quot;&gt;&lt;a href=&quot;#测试————前计划&quot; class=&quot;headerlink&quot; title=&quot;测试————前计划&quot;&gt;&lt;/a&gt;&lt;strong&gt;测试&lt;/strong&gt;————&lt;em&gt;前计划&lt;/em&gt;&lt;/h3&gt;&lt;p&gt;能使用&lt;span style=&quot;</summary>
-      
+    <summary type="html">&lt;h3 id=&quot;测试————前计划&quot;&gt;&lt;a href=&quot;#测试————前计划&quot; class=&quot;headerlink&quot; title=&quot;测试————前计划&quot;&gt;&lt;/a&gt;&lt;strong&gt;测试&lt;/strong&gt;————&lt;em&gt;前计划&lt;/em&gt;&lt;/h3&gt;&lt;p&gt;能使用&lt;span style=&quot;color:green;background:yellow;font-size:文字大小;font-family:SimHei;&quot;&gt;&lt;strong&gt;Python&lt;/strong&gt;&lt;/span&gt; &lt;font color=&quot;red&quot;&gt;进行自动健康打卡，qq自动回消息，做题库直到能及格&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;能使用&lt;span style=&quot;color:MidnightBlue;background:#00BFFF;font-size:文字大小;font-family:SimHei;&quot;&gt;&lt;strong&gt;Html+Css+Python&lt;/strong&gt;&lt;/span&gt;&lt;font color=&quot;red&quot;&gt;创建自己的博客网站，每日更新爬取P站图片&lt;/font&gt;&lt;/p&gt;</summary>
     
     
     
