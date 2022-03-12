@@ -6,7 +6,7 @@
   <link href="https://cowboyliao.github.io/atom.xml" rel="self"/>
   
   <link href="https://cowboyliao.github.io/"/>
-  <updated>2022-03-12T00:41:48.152Z</updated>
+  <updated>2022-03-12T02:32:48.565Z</updated>
   <id>https://cowboyliao.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://cowboyliao.github.io/2022/03/12/%E5%91%A8%E8%AE%B0/"/>
     <id>https://cowboyliao.github.io/2022/03/12/%E5%91%A8%E8%AE%B0/</id>
     <published>2022-03-12T00:40:23.000Z</published>
-    <updated>2022-03-12T00:41:48.152Z</updated>
+    <updated>2022-03-12T02:32:48.565Z</updated>
     
     <content type="html"><![CDATA[<p>a啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊a</p>]]></content>
     
@@ -31,7 +31,7 @@
     
     
     
-    <category term="生活杂碎" scheme="https://cowboyliao.github.io/tags/%E7%94%9F%E6%B4%BB%E6%9D%82%E7%A2%8E/"/>
+    <category term="生活琐碎" scheme="https://cowboyliao.github.io/tags/%E7%94%9F%E6%B4%BB%E7%90%90%E7%A2%8E/"/>
     
   </entry>
   
@@ -40,7 +40,7 @@
     <link href="https://cowboyliao.github.io/2022/03/10/3-10Python%E5%AE%9E%E9%AA%8C%E8%AF%BE/"/>
     <id>https://cowboyliao.github.io/2022/03/10/3-10Python%E5%AE%9E%E9%AA%8C%E8%AF%BE/</id>
     <published>2022-03-10T15:44:13.000Z</published>
-    <updated>2022-03-12T01:12:57.250Z</updated>
+    <updated>2022-03-12T02:33:12.941Z</updated>
     
     <content type="html"><![CDATA[<h2 id="太阳花"><a href="#太阳花" class="headerlink" title="太阳花"></a>太阳花</h2><h3 id="一，源程序调试过程"><a href="#一，源程序调试过程" class="headerlink" title="一，源程序调试过程"></a>一，源程序调试过程</h3><h4 id="思路"><a href="#思路" class="headerlink" title="思路"></a>思路</h4><blockquote><p>将原本由直线构成的太阳花运用圆弧进行改变</p><p>使用random库进行颜色随机切换</p><p>中间添加别类的<font color="darkyellow">“花蕊”</font></p><p>使用不同函数来模拟不同图层</p></blockquote><h4 id="问题"><a href="#问题" class="headerlink" title="问题"></a>问题</h4><blockquote><p>1,Python的<font color="red">turtle.Terminator错误</font></p><p>2,图画时turtle的位置</p></blockquote><h4 id="解决方法"><a href="#解决方法" class="headerlink" title="解决方法"></a>解决方法</h4><blockquote><p>1,查看CSDN,发现没啥用,错误也不影响运行就没有再管</p><p>2,不断调试,运用goto(),sety(),home()等函数进行调试</p></blockquote><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">turtle.Turtle().screen.delay(<span class="number">0</span>) <span class="comment">#能够快速画出图像,比speed(10)快得多得多</span></span><br><span class="line"><span class="built_in">abs</span>(turtle.pos())&lt;<span class="number">1</span> <span class="comment">#能够检测是否返回原点,可以自动停止画图</span></span><br></pre></td></tr></table></figure><h3 id="二，实验实习结果分析"><a href="#二，实验实习结果分析" class="headerlink" title="二，实验实习结果分析"></a>二，实验实习结果分析</h3><p><a href="https://sm.ms/image/5gHtGn72wq1uMVx" target="_blank"><img src="https://s2.loli.net/2022/03/10/5gHtGn72wq1uMVx.png" style="zoom: 33%;"></a></p><p><code>每次运行都能得到不同的花朵</code></p><h3 id="三，心得体会"><a href="#三，心得体会" class="headerlink" title="三，心得体会"></a>三，心得体会</h3><blockquote><p>1,编程需要耐心</p><p>2,不懂就要查</p><p>3,要和别人有差异</p></blockquote><h2 id="五角星"><a href="#五角星" class="headerlink" title="五角星"></a>五角星</h2><h3 id="一，源程序调试过程-1"><a href="#一，源程序调试过程-1" class="headerlink" title="一，源程序调试过程"></a>一，源程序调试过程</h3><h4 id="方法"><a href="#方法" class="headerlink" title="方法:"></a>方法:</h4><p>1.<strong>自顶向下</strong>的编程思路</p><blockquote><p>首先想象自己运用turtle的库能做些什么,脑海里构建一个大概图画</p><p>然后根据自己所学的知识判断是否可行</p><p>再将大任务化小,比如这个项目</p><p>构建一个以不同颜色的不同边形来组成的五角星</p><p>以两个函数就可以做的</p><p>1.生成随机图形的函数</p><p>2.控制运动轨迹的函数</p><p>将两者合并即可得到整体</p></blockquote><p>2.运用不同的库和网上教程来提升知识量,但重要的是<strong>思路</strong></p><h3 id="二，实验实习结果分析-1"><a href="#二，实验实习结果分析-1" class="headerlink" title="二，实验实习结果分析"></a>二，实验实习结果分析</h3><p><a href="https://sm.ms/image/Tr69g5DEiP3cnAN" target="_blank"><img src="https://s2.loli.net/2022/03/10/Tr69g5DEiP3cnAN.png" alt="image.png" style="zoom:25%;"></a></p><h3 id="三，心得体会-1"><a href="#三，心得体会-1" class="headerlink" title="三，心得体会"></a>三，心得体会</h3><p>1,编程需要<strong>耐心</strong></p><p>2,不懂就要查</p><p>3,要和别人有<strong>差异</strong></p>]]></content>
     
@@ -61,7 +61,7 @@
     <link href="https://cowboyliao.github.io/2022/03/10/%E8%AF%97%E4%B8%8E%E5%89%91/"/>
     <id>https://cowboyliao.github.io/2022/03/10/%E8%AF%97%E4%B8%8E%E5%89%91/</id>
     <published>2022-03-10T10:53:02.000Z</published>
-    <updated>2022-03-12T02:30:12.015Z</updated>
+    <updated>2022-03-12T02:33:05.364Z</updated>
     
     <content type="html"><![CDATA[<p>我喜欢诗，简洁或晦涩，意象的堆砌让我浮想联翩，我喜欢诗意的语言，阿城的峡谷，海子的诗，尼采诗化的箴言，抓不住的鼬鼠里虚无的哲理。</p><span id="more"></span>我喜欢剑，锋利或迟钝，刀把的掌握让我驰骋四方，我喜欢那种霸气，高原我的中国色里句句是剑，而我常以笔为剑，钢笔沙沙的声音是金属和薄纸的和谐，执笔挥墨如割人削甲，我爱它虽不如俄乌间喷着鬼火的导弹猛烈，但它有着沾染热血的冷铁能像宇宙最原初的样子，它是最绚丽的超新星爆炸留下的重金属，是原子在最最微观活动的表现，但它又像最俊伟的君王如伽马射线，一击可以抹杀一切。这就是剑，像线一样，柔或刚。<p>思维的抽象，我真的愿意去聆听，从迷踪无影的量子，到和谐统一的场论，宇宙的声音，万物的母亲，一切归一，道法自然。况且数字与公式隐含的诗意是那么的浓，那么的美，那谜的定理像银河稠密的乳汁溶化于暗物质的泡影。</p><p>生物进化，人类的智慧结晶，从二进制到人工智能，漫漫的路走过四季，人类的未来满满的困惑，是堕落还是沉沦，是悲伤是喜悦，当红日与冷月在灿烂的大海中绽开，希望又一次点燃。</p><p>纯粹的真理，而不是东拼西凑的话语，歌者的诗词并不是美丽的种子。真正的美，应是这样“人类放下武器与偏见互相拥抱，光荣的舰队正在太阳的火舌上流浪，黑洞中奇点在急旋着诱人的能量，熵减热寂褪去恒星爆发辐射，美丽的人儿在破败绝望的街头舞蹈，核弹在远远的都市喷发，破烂堆里流浪孤儿打开一本残破的废弃《毛选》”。</p><p><a href="https://sm.ms/image/wWRTZE3OBPUcalq" target="_blank"><img src="https://s2.loli.net/2022/03/12/wWRTZE3OBPUcalq.png"></a></p>]]></content>
     
@@ -71,7 +71,7 @@
     
     
     
-    <category term="生活杂碎" scheme="https://cowboyliao.github.io/tags/%E7%94%9F%E6%B4%BB%E6%9D%82%E7%A2%8E/"/>
+    <category term="生活琐碎" scheme="https://cowboyliao.github.io/tags/%E7%94%9F%E6%B4%BB%E7%90%90%E7%A2%8E/"/>
     
   </entry>
   
@@ -123,7 +123,7 @@
     <link href="https://cowboyliao.github.io/2022/03/01/%E6%9C%80%E8%BF%91%E7%94%9F%E6%B4%BB%E5%B0%8F%E6%80%BB%E7%BB%93/"/>
     <id>https://cowboyliao.github.io/2022/03/01/%E6%9C%80%E8%BF%91%E7%94%9F%E6%B4%BB%E5%B0%8F%E6%80%BB%E7%BB%93/</id>
     <published>2022-03-01T06:57:49.000Z</published>
-    <updated>2022-03-12T00:43:34.866Z</updated>
+    <updated>2022-03-12T02:32:56.899Z</updated>
     
     <content type="html"><![CDATA[<p>看人文社科类首先考虑用kindle，看技术型看实体书，读书时，用一支笔一本草稿纸，光线保持明亮。</p><p>困乏头晕时，锻炼身体，俯卧撑及通过keep练习动作。</p><p>平时饮食规律，不吃糖和油辣食物，多吃菜，保持饮食多样。</p><span id="more"></span><p>睡眠前看书避免接触蓝光刺激，早睡早起，早跑早操。</p><p>游戏书籍电影纪录片番剧杂谈感悟总结笔记均用typora记录。</p><p>电脑打字熟悉双拼，浏览健康内容，翻墙切勿看乱党乱纪内容，研究GitHub，stackoverflow等内容。</p><p>能用电脑就别用手机，只能用手机就别看那些视频网站或社交软件。最好用笔和纸纪录，俗话说的好，好记性不如烂笔头。</p><p>心理上不比较，对女性不臆想，讲究两个字纯粹，两个字通透。</p><p><a href="https://sm.ms/image/EjX7GebZdOrag3I" target="_blank"><img src="https://s2.loli.net/2022/03/01/EjX7GebZdOrag3I.jpg" alt="95189534_p0.jpg"></a></p>]]></content>
     
@@ -135,7 +135,7 @@
     
     
     
-    <category term="生活杂碎" scheme="https://cowboyliao.github.io/tags/%E7%94%9F%E6%B4%BB%E6%9D%82%E7%A2%8E/"/>
+    <category term="生活琐碎" scheme="https://cowboyliao.github.io/tags/%E7%94%9F%E6%B4%BB%E7%90%90%E7%A2%8E/"/>
     
   </entry>
   
@@ -206,17 +206,16 @@
     <link href="https://cowboyliao.github.io/2022/02/05/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E6%97%A5%E5%BF%97/"/>
     <id>https://cowboyliao.github.io/2022/02/05/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E6%97%A5%E5%BF%97/</id>
     <published>2022-02-05T07:33:41.000Z</published>
-    <updated>2022-03-05T14:23:48.150Z</updated>
+    <updated>2022-03-12T02:31:38.717Z</updated>
     
-    <content type="html"><![CDATA[<p>2022-2-24日 通过查阅知乎简书各类博客网站，建立起我的第一个博客内容。希望通过此网站来记录点什么点滴。屏蔽掉QQ空间和朋友圈，找到存在自我的证据，虽说意识不一定存在，但总比什么也不做好。生物体在熵和无序原子的海洋中已经是难得的一团了，历史也随光锥远去，时间总是流逝的，总得做点什么吧，生命怎么短总得做点什么吧，想想什么也好，就算是一朵花也有她的价值，人作为误以为自己很高级的动物，总不能总做低廉的事吧，活着真得找点事做，只要有所新知，对冥冥宇宙了解就足矣。</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;2022-2-24日 通过查阅知乎简书各类博客网站，建立起我的第一个博客内容。希望通过此网站来记录点什么点滴。屏蔽掉QQ空间和朋友圈，找到存在自我的证据，虽说意识不一定存在，但总比什么也不做好。生物体在熵和无序原子的海洋中已经是难得的一团了，历史也随光锥远去，时间总是流逝的</summary>
-      
+    <content type="html"><![CDATA[<h4 id="2022-2-24日"><a href="#2022-2-24日" class="headerlink" title="2022-2-24日"></a>2022-2-24日</h4><p>通过查阅知乎简书各类博客网站，建立起我的第一个博客内容。希望通过此网站来记录点什么点滴。屏蔽掉QQ空间和朋友圈，找到存在自我的证据，虽说意识不一定存在，但总比什么也不做好。生物体在熵和无序原子的海洋中已经是难得的一团了，历史也随光锥远去，时间总是流逝的，总得做点什么吧，生命怎么短总得做点什么吧，想想什么也好，就算是一朵花也有她的价值，人作为误以为自己很高级的动物，总不能总做低廉的事吧，活着真得找点事做，只要有所新知，对冥冥宇宙了解就足矣。</p><h4 id="2022-3-12日"><a href="#2022-3-12日" class="headerlink" title="2022-3-12日"></a>2022-3-12日</h4><p>新增功能:全局音乐, 文章隔断, 标签, 关于, 分类</p><p>鸣谢:<a href="https://blog.csdn.net/weixin_48927364/article/details/123295436">【Hexo】nexT主题使用攻略基础——添加分类、标签及关于_离明zh的博客-CSDN博客</a></p><p>​        <a href="https://blog.csdn.net/yueyue200830/article/details/104470646">设置hexo首页只显示部分摘要（不显示全文）_yueyue200830的博客-CSDN博客_hexo首页只显示标题</a></p><p>​        <a href="https://iluis.gitee.io/2020/04/09/Hexo%E5%AE%9E%E7%8E%B0%E5%85%A8%E5%B1%80%E6%92%AD%E6%94%BE%E8%83%8C%E6%99%AF%E9%9F%B3%E4%B9%90/">Hexo + Next 主题实现全局播放背景音乐 | iluis (gitee.io)</a></p>]]></content>
     
     
+    <summary type="html">此页面用于记录该博客的搭建记录,累积迭代</summary>
+    
+    
+    
+    <category term="博客搭建" scheme="https://cowboyliao.github.io/categories/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/"/>
     
     
     <category term="博客搭建" scheme="https://cowboyliao.github.io/tags/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/"/>
