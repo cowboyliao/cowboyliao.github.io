@@ -6,7 +6,7 @@
   <link href="https://cowboyliao.github.io/atom.xml" rel="self"/>
   
   <link href="https://cowboyliao.github.io/"/>
-  <updated>2022-04-12T00:48:21.461Z</updated>
+  <updated>2022-04-12T00:51:36.367Z</updated>
   <id>https://cowboyliao.github.io/</id>
   
   <author>
@@ -17,19 +17,39 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>11会谈总结</title>
+    <link href="https://cowboyliao.github.io/2022/04/11/11%E4%BC%9A%E8%B0%88%E6%80%BB%E7%BB%93/"/>
+    <id>https://cowboyliao.github.io/2022/04/11/11%E4%BC%9A%E8%B0%88%E6%80%BB%E7%BB%93/</id>
+    <published>2022-04-11T00:49:21.000Z</published>
+    <updated>2022-04-12T00:51:36.367Z</updated>
+    
+    <content type="html"><![CDATA[<p>昨日与Python课老师,和已上岸电子科技大学的计算机学院学长交流了B站热评爬取项目</p><p>受益良多,总结如下:</p><p>考研保研都是看你三个点:</p><p>绩点,项目,竞赛</p><p>创新创业分越早做完越好,参加各种比赛,早点把分凑齐,早点做其他的事.</p><p>成绩保持较好,早点接触一些东西,ACM,红岩网校,那些能促进人学习的项目</p><p>把自己锻炼成话痨,让复试老师无话可说</p><p>数学很重要,数学好什么不好</p><p>个人的算法比不上公司的,实验室的</p><p>找一门语言,扎进去,学的精通</p>]]></content>
+    
+    
+    <summary type="html">想做一个强的人</summary>
+    
+    
+    
+    <category term="Python" scheme="https://cowboyliao.github.io/categories/Python/"/>
+    
+    
+    <category term="Python" scheme="https://cowboyliao.github.io/tags/Python/"/>
+    
+    <category term="生活杂谈" scheme="https://cowboyliao.github.io/tags/%E7%94%9F%E6%B4%BB%E6%9D%82%E8%B0%88/"/>
+    
+  </entry>
+  
+  <entry>
     <title>蓝桥杯惨痛经历</title>
     <link href="https://cowboyliao.github.io/2022/04/09/%E8%93%9D%E6%A1%A5%E6%9D%AF%E6%83%A8%E7%97%9B%E7%BB%8F%E5%8E%86/"/>
     <id>https://cowboyliao.github.io/2022/04/09/%E8%93%9D%E6%A1%A5%E6%9D%AF%E6%83%A8%E7%97%9B%E7%BB%8F%E5%8E%86/</id>
     <published>2022-04-09T00:47:15.000Z</published>
-    <updated>2022-04-12T00:48:21.461Z</updated>
+    <updated>2022-04-12T00:52:14.469Z</updated>
     
     <content type="html"><![CDATA[<h4 id="蓝桥杯惨痛经历"><a href="#蓝桥杯惨痛经历" class="headerlink" title="蓝桥杯惨痛经历"></a>蓝桥杯惨痛经历</h4><p>​    大概率就是没戏，想不到连第一题都能错，简简单单的进制问题。关键也不是做不来，是没注意，艹。</p><p>​    后满做题也几乎没有用到算法的东西，就是一味的瞎套瞎用，混混了事，解题方法思路完全没有，只知道for套for。</p><p>​    这几周看了好多好多题，似懂非懂，看得懂题解却无法归纳总结出自己的解题法，换个同类问题又不会了。希望这次比赛能够让自己遭到敢拼的态度，但同时也许精进，提炼自己的方法。</p><p>​    这几周的优点和缺点：</p><p>优点：问题拆分，由小到大，接触新知识开拓视野 分配时间，防止空虚流逝。</p><p>缺点：匆忙，没有提前学，想一口吃成胖子，高估一天内的学习效率，往往无法完成任务，太过于依赖CSDN，电脑学习繁多且易分心。</p><p>导致的问题，缺少实践，连using namespace std; 都忘记了，没有思路，题量少，看了许多提，都做不来，都看了题解而看了就忘，学习效率地下。太过于急迫，像一天掌握各种算法，最后都只能草草离去。</p><p>总结方法如下：</p><p>​    算法学习</p><p>多练多想。少看题解，靠的是积累而非一日之功。别自己造轮子，算法基础需精通。</p><p>​    编程学习</p><p>知其所以然，步步精进，先有广度再深搜，知道每个代码在干嘛</p><p>找项目练手：</p><blockquote><p>大物实验</p><p>计算机程序设计</p><p>心音</p><p>找老师问</p></blockquote><p>能力</p><blockquote><p>看代码</p><p>写代码</p><p>想代码</p></blockquote><p>2022.4.09算法重建计划</p><p> 每天一道leetcode题</p><p>​    抄于笔记本上</p><p>$$ 包含&#x3D;\left{ \begin{matrix} 题目 \思考\代码\思路\题解  \end{matrix} \right. $$</p>]]></content>
     
     
-      
-      
-    <summary type="html">&lt;h4 id=&quot;蓝桥杯惨痛经历&quot;&gt;&lt;a href=&quot;#蓝桥杯惨痛经历&quot; class=&quot;headerlink&quot; title=&quot;蓝桥杯惨痛经历&quot;&gt;&lt;/a&gt;蓝桥杯惨痛经历&lt;/h4&gt;&lt;p&gt;​    大概率就是没戏，想不到连第一题都能错，简简单单的进制问题。关键也不是做不来，是没注意，艹。</summary>
-      
+    <summary type="html">明年干翻蓝桥杯</summary>
     
     
     
