@@ -1,4 +1,26 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
-title = 'hello, world, hello, you!'
-theme = 'ananke'
+title = 'adsum, ad vitam aeternam'
+theme= "hugo-book"
+
+[markup.tableOfContents]
+  startLevel = 1
+
+
+[markup]
+[markup.goldmark.renderer]
+  unsafe = true
+
+
+[params]
+  BookTheme = 'light'
+
+  BookToC = true
+
+  BookDateFormat = 'January 26, 2024'
+
+  BookRepo = 'https://github.com/alex-shpak/hugo-book'
+
+  BookEditPath = 'edit/main/exampleSite'
+
+  BookSearch = true
