@@ -3,39 +3,34 @@ title: Introduction
 type: docs
 ---
 
-# Acerbo datus maxime
+# this is a book about.
 
 {{< columns >}}
-## Astris ipse furtiva
 
-Est in vagis et Pittheus tu arge accipiter regia iram vocatur nurus. Omnes ut
-olivae sensit **arma sorori** deducit, inesset **crudus**, ego vetuere aliis,
-modo arsit? Utinam rapta fiducia valuere litora _adicit cursu_, ad facies
+## seize the memory
+
+**time** still goes on steady, only reward us memory. I wish I could save some **value** of time, don't pass away quickly. Remember what I learned from yesterday, and feeling great to welcome the unknown tomorrow.
 
 <--->
 
-## Suis quot vota
+## and writing
 
-Ea _furtique_ risere fratres edidit terrae magis. Colla tam mihi tenebat:
-miseram excita suadent es pecudes iam. Concilio _quam_ velatus posset ait quod
-nunc! Fragosis suae dextra geruntur functus vulgata.
+So Many Sometimes, browsing internet made me feeling **lost**.
+Writing my throughts to fix my **attention** to really get thing down rather than watch youtube all day long.
+
 {{< /columns >}}
 
+    the latin title: "adsum, ad vitam aeternam", in english, it meanings "I am here, for eternal life."
 
-## Tempora nisi nunc
+## 理 world
 
-Lorem **markdownum** emicat gestu. Cannis sol pressit ducta. **Est** Idaei,
-tremens ausim se tutaeque, illi ulnis hausit, sed, lumina cutem. Quae avis
-sequens!
+世界，如此大，也如此小，蓝色的小点，却是我永远的家，世界很大，人很渺小。
+writing blogs for eulogizing the broad world.
 
-    var panel = ram_design;
-    if (backup + system) {
-        file.readPoint = network_native;
-        sidebar_engine_device(cell_tftp_raster,
-                dual_login_paper.adf_vci.application_reader_design(
-                graphicsNvramCdma, lpi_footer_snmp, integer_model));
-    }
+## 悟 life
 
-## Locis suis novi cum suoque decidit eadem
+我喜欢悟，通过现象，通过书本，实践来发现真理。 to know what I can do, to know that how can I know? the only question to discover is how to know that I don't know?
 
-Idmoniae ripis, at aves, ali missa adest, ut _et autem_, et ab?
+## four protocol of life
+
+there is four protocol of life, imo, they are **mathematic**, **computer**, **language**, **humannity**, therefore my book is fouces on these topics.
